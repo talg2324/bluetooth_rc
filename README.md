@@ -1,7 +1,3 @@
-# funscripts
-Random scripts from various projects
-
-
 ## Bluetooth RC Car
 
 Use the Bluetooth detect script to connect to your desktop from the ESP controller
